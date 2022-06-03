@@ -2,7 +2,7 @@
 //  SearchResultSubtitleTableViewCell.swift
 //  Spotify
 //
-//  Created by Afraz Siddiqui on 2/20/21.
+//  Created byAdarsh Shukla on 2/20/22.
 //
 
 import UIKit
